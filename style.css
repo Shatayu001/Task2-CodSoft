@@ -440,7 +440,7 @@ body {
     padding: 40px;
     padding-top: 70px;
     justify-content: center;
-    background: url('../img/bgWorld.png');
+    background: url('./img/bgWorld.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
